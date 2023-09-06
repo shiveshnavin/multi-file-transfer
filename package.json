@@ -1,0 +1,20 @@
+{
+  "name": "multi-file-transfer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shiveshnavin/multi-file-transfer"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "easydl": "^1.1.0",
+    "path": "^0.12.7"
+  }
+}
